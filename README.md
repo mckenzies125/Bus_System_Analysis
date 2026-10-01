@@ -130,10 +130,10 @@ The count was reset after arrival at University Union or after a sufficiently lo
 
 Assuming a bus capacity of **51 passengers**, estimated fullness was calculated as:
 
-\[
+$$
 \text{Fullness} =
 \frac{\text{Estimated Onboard Passengers}}{51}
-\]
+$$
 
 Because this measure is inferred from boardings rather than observed passenger counts, it should be interpreted as an approximation of vehicle occupancy.
 
@@ -166,9 +166,9 @@ Westside Inbound fullness was **positively and statistically significantly assoc
 
 The estimated incidence rate ratio was:
 
-\[
+$$
 IRR = 1.83
-\]
+$$
 
 Because fullness was measured as a proportion from 0 to 1, a more practical interpretation is that a **10 percentage-point increase in Westside Inbound fullness was associated with approximately a 6% increase in expected Main Street Inbound boardings**, holding stop, hour, and day of week constant.
 
@@ -182,9 +182,9 @@ The relationship was stronger for outbound service.
 
 The estimated incidence rate ratio for Westside Outbound fullness was:
 
-\[
+$$
 IRR = 3.91
-\]
+$$
 
 A **10 percentage-point increase in Westside Outbound fullness was associated with approximately a 15% increase in expected Main Street Outbound boardings**, holding stop, hour, and day of week constant.
 
