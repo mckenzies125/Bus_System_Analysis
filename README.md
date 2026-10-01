@@ -157,7 +157,7 @@ The model took the general form:
 \beta_3(\text{Hour}_i)
 +
 \beta_4(\text{Day of Week}_i)
-\]
+\] 
 
 where \(\mu_i\) represents expected Main Street boardings.
 
