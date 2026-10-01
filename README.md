@@ -145,19 +145,14 @@ A **negative binomial regression** was therefore used to model expected Main Str
 
 The model took the general form:
 
-\[
-\log(\mu_i)
-=
-\beta_0
-+
-\beta_1(\text{Westside Fullness}_i)
-+
-\beta_2(\text{Stop}_i)
-+
-\beta_3(\text{Hour}_i)
-+
+$$
+\log(\mu_i) =
+\beta_0 +
+\beta_1(\text{Westside Fullness}_i) +
+\beta_2(\text{Stop}_i) +
+\beta_3(\text{Hour}_i) +
 \beta_4(\text{Day of Week}_i)
-\] 
+$$
 
 where \(\mu_i\) represents expected Main Street boardings.
 
